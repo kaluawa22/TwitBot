@@ -22,18 +22,6 @@ function followed(eventMsg) {
 	tweetItNow('@' + screenName + ' do you like rainbows?');
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 tweetIt();
 setInterval(tweetIt, 1000*40); //Sets time intervel to run Tweet it Function 
 
